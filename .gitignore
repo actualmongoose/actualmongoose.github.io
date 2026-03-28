@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS folders
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# macOS files that might appear on external volumes
+.apdisk
+.AppleDB
+.AppleDesktop
+.com.apple.timemachine.donotpresent
+.localized
+
+# Resource forks
+._*
